@@ -42,3 +42,4 @@ while counter < 9
   turn(board)
   counter += 1
 end
+end
